@@ -5,26 +5,33 @@
 📂 Project Structure
 
 expense-management-system/
-│── frontend/       # Streamlit frontend application
-│── backend/        # FastAPI backend server
-│── tests/          # Test cases for frontend and backend
-│── requirements.txt # Required Python packages
-│── README.md       # Project overview & setup instructions
+├── frontend/       # Streamlit frontend application
+├── backend/        # FastAPI backend server
+├── tests/          # Test cases for frontend and backend
+├── requirements.txt # Required Python packages
+└── README.md       # Project overview & setup instructions
 
 ⚡ Quick Start
 
-1️⃣ Clone the repository
+## Setup Instructions
 
-git clone https://github.com/yourusername/expense-management-system.git
-cd expense-management-system
-
-2️⃣ Install dependencies
-
-pip install -r requirements.txt
-
-3️⃣ Start the FastAPI server
-
-uvicorn backend.server:app --reload
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/expense-management-system.git
+   cd expense-management-system
+   ```
+1. **Install dependencies:**:   
+   ```commandline
+    pip install -r requirements.txt
+   ```
+1. **Run the FastAPI server:**:   
+   ```commandline
+    uvicorn server.server:app --reload
+   ```
+1. **Run the Streamlit app:**:   
+   ```commandline
+    streamlit run frontend/app.py
+   ```
 
 4️⃣ Launch the Streamlit app
 
