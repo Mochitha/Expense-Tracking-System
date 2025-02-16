@@ -32,14 +32,11 @@ expense-management-system/
    ```commandline
     streamlit run frontend/app.py
    ```
-
-4️⃣ Launch the Streamlit app
-
-streamlit run frontend/app.py
-
+```commandline
 🎯 Features
 
 ✅ Track Expenses - Log and monitor your spending with ease.✅ User-Friendly UI - A clean and intuitive interface powered by Streamlit.✅ Fast & Scalable API - Built with FastAPI for high performance.✅ Test Coverage - Includes unit tests for reliability.
 
 💡 Contributions are welcome! Feel free to submit issues or PRs. 🚀
 
+ ```
