@@ -4,12 +4,12 @@
 
 📂 Project Structure
 
-expense-management-system/
+'''expense-management-system/
 ├── frontend/       # Streamlit frontend application
 ├── backend/        # FastAPI backend server
 ├── tests/          # Test cases for frontend and backend
 ├── requirements.txt # Required Python packages
-└── README.md       # Project overview & setup instructions
+└── README.md       # Project overview & setup instructions'''
 
 ⚡ Quick Start
 
