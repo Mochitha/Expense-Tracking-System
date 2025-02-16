@@ -1,4 +1,5 @@
-# Expense Management System   ![image](https://github.com/user-attachments/assets/cdad275e-7c86-4b44-be97-8393714cfdea)
+![image](https://github.com/user-attachments/assets/772d0174-9ca2-45b6-8415-e7caa32c0f62)
+
 
 
 This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
