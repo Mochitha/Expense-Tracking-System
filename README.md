@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/24029b51-d697-44a5-b789-6af17709cb03)
+![image](https://github.com/user-attachments/assets/22db57d3-21d6-4fe4-bf0d-b803464f61a5)
+
 
 
 🚀 A simple yet powerful Expense Management System built with Streamlit for the frontend and FastAPI for the backend.
