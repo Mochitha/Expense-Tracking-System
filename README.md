@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/772d0174-9ca2-45b6-8415-e7caa32c0f62)
+![image](https://github.com/user-attachments/assets/24029b51-d697-44a5-b789-6af17709cb03)
+
 
 🚀 A simple yet powerful Expense Management System built with Streamlit for the frontend and FastAPI for the backend.
 
@@ -17,8 +18,8 @@ expense-management-system/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/expense-management-system.git
-   cd expense-management-system
+   git clone https://github.com/Mochitha/Expense-Tracking-System.git
+   cd Expense-Tracking-System
    ```
 1. **Install dependencies:**:   
    ```commandline
